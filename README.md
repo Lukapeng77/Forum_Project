@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <div align="center">
 <a href="https://github.com/Lukapeng77/Forum_Project">
-    <img src="./frontend/src/assets/Forum_Project.webp" alt="Logo" width="300" height="200"> 
+    <img src="./frontend/src/assets/Forum_Project.webp" alt="Logo" width="400" height="300"> 
   </a>
 
 <h3 align="center">CVWO Forum Project</h3>
