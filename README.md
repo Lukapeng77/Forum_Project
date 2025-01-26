@@ -61,7 +61,7 @@ Before you begin, ensure you have the following prerequisites installed:
 1. **Clone the Repo**
    Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/Lukapeng77/CVWO_Project.git
+    git clone https://github.com/Lukapeng77/Forum_Project.git
     ```
 2. FrontEnd Setup:
    Navigate to the frontend directory and install the dependencies:
@@ -82,21 +82,29 @@ Before you begin, ensure you have the following prerequisites installed:
 5. Database Setup:
    Ensure PostgreSQL is running. To create schema and populate with fake data.
     ```sh
-    cd backend
+    make build
     make migrate
     make seed
     ```
-6. FrontEnd: Run the Vite development server:
+6. .env file Setup:
+   Create a .env file under backend directory, set below env variables properly:
+    ```sh
+    Postgresql_URI=<your_Postgresql_uri>
+    PORT=5000
+    ENV=development
+    
+    ```
+7. FrontEnd: Run the Vite development server:
     ```sh
     cd frontend
     npm run dev
     ```
-7. Backend: Start up server after schema has be created and populated
+8. Backend: Start up server after schema has be created and populated
     ```sh
     cd backend
     make run
     ```
-8. Go to http://localhost:5173/
+9. Go to http://localhost:5001/, the website should be hosted on your local device.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
