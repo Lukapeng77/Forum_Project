@@ -1,5 +1,9 @@
 <a name="readme-top"></a>
 <div align="center">
+<a href="https://github.com/Lukapeng77/Forum_Project">
+    <img src="./frontend/src/assets/Forum_Project.webp" alt="Logo" width="300" height="200"> 
+  </a>
+
 <h3 align="center">CVWO Forum Project</h3>
   <p align="left">
   A fullstack forum project serves as a peer-to-peer academic support platform that ensures college students to toggle roles between tutors and tutees to ask and answer academic questions, empowering them with personalized, real-time learning experiences beyond traditional learning mode. Furthermore, the platform enables students to make appointments with corresponding tutors for online or face-to-face meetings, built with the following tech skills: Go, PostgreSQL, Vite, React, and Tailwind CSS.
@@ -32,12 +36,12 @@ To help students get more personalized academic assistance, the forum project is
 
 ### Tech Skills 
 
--   [![Go][Go]][Go-url]
--   [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
--   [![Vite][Vite]][Vite-url]
--   [![React][React.js]][React-url]
--   [![TypeScript][TypeScript]][TypeScript-url]
--   [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
+- [Go](https://go.dev/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Vite](https://vitejs.dev/)
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [TailwindCSS](https://tailwindcss.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
